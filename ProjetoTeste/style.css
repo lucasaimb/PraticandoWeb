@@ -1,0 +1,37 @@
+html, body{
+    height: 100%;
+}
+
+body{
+    background-image: url(img/giphy.gif);
+}
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    
+}
+
+.mainzona{
+    width: 600px;
+    height: 800px;
+    border-radius: 10px;
+   
+}
+
+.texto{
+    margin-top: 4%;
+    font-family: 'Inter', sans-serif;
+    
+}
+
+img{
+    height: 35%;
+    width: 35%;
+    border-radius: 100px;
+    margin-left: 10%;
+    margin-top: 10%;
+    
+}
